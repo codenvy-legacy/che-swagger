@@ -28,9 +28,9 @@
         <module>che-swagger-war</module>
     </modules>
     <scm>
-        <connection>scm:git:git@github.com:codenvy/swagger-ui.git</connection>
-        <developerConnection>scm:git:git@github.com:codenvy/swagger-ui.git</developerConnection>
+        <connection>scm:git:git@github.com:codenvy/che-swagger.git</connection>
+        <developerConnection>scm:git:git@github.com:codenvy/che-swagger.git</developerConnection>
         <tag>HEAD</tag>
-        <url>https://github.com/codenvy/swagger-ui</url>
+        <url>https://github.com/codenvy/che-swagger</url>
     </scm>
 </project>
